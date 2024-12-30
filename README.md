@@ -7,4 +7,6 @@ This is html-skeleton!
 This is test for local branch's tracking of remote branch.
 Fetch test.
 
+Testing Pull Request.
+
 This repository is built step by step in the tutorial.
