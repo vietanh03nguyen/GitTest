@@ -5,5 +5,6 @@ test edit
 
 This is html-skeleton!
 This is test for local branch's tracking of remote branch.
+Fetch test.
 
 This repository is built step by step in the tutorial.
